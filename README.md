@@ -10,6 +10,6 @@ Configuracion basica neovim briard
 
 4 nvim 
 
-### Instalation plugins
+## Instalation plugins
 
-## run :PlugInstall
+    run :PlugInstall
