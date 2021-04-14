@@ -12,4 +12,5 @@ Configuracion basica neovim briard
 
 ## Instalation plugins
 
+    create folder named "plugged" in nvim folder
     run :PlugInstall
